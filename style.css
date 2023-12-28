@@ -1,0 +1,78 @@
+.first-div{
+    padding: 15px;
+    margin: 20px;
+    background-color: rgb(204, 33, 167);
+    border: 2px solid black;
+    width: 200px;
+    height: 80px;
+}
+
+.second-div{
+    padding: 15px;
+    margin: 20px;
+    background-color: rgb(204, 33, 42);
+    border: 2px solid black;
+    width: 200px;
+    height: 80px;
+}
+
+.main-d{
+    
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.third-div{
+    padding: 10px;
+    margin: 20px;
+    background-color: rgb(33, 184, 204);
+    border: 2px solid black;
+    width: 800px;
+    height: 180px;
+}
+
+.main-di{
+    border: 2px solid rgb(19, 209, 44);
+    display: flex;
+    justify-content: center;
+    
+}
+
+.forth-div{
+    padding: 20px;
+    margin: 20px;
+    background-color: rgb(204, 33, 33);
+    width: 250px;
+    height: 120px;
+}
+
+.fifth-div{
+    padding: 20px;
+    margin: 20px;
+    background-color: rgb(5, 101, 114);
+    width: 250px;
+    height: 120px;
+    
+}
+
+.sixth-div{
+    padding: 20px;
+    margin: 20px;
+    background-color: rgb(33, 204, 99);
+    width: 250px;
+    height: 120px;
+}
+
+.main-div{
+    border: 2px solid red;
+    display: flex;
+    justify-content: space-evenly;
+   
+}
+
+.top-div{
+    border: 2px solid rgb(17, 10, 10);
+    justify-content: space-evenly;
+   
+}
